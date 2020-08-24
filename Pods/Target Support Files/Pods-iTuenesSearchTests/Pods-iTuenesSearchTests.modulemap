@@ -1,0 +1,6 @@
+framework module Pods_iTuenesSearchTests {
+  umbrella header "Pods-iTuenesSearchTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
